@@ -1,2 +1,5 @@
-# ai-issue-tracker
-AI assisted issue tracking backend built with Spring Boot
+Hi, I'm Sandhya Kushwaha 
+
+Full Stack Java Developer
+Spring Boot | React | MySQL | REST APIs
+Currently building backend systems with Spring Boot.
