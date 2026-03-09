@@ -33,4 +33,4 @@ http://localhost:8080/h2-console
 
 ## Swagger Documentation
 
-http://localhost:8080/swagger-ui.html
+(http://localhost:8081/swagger-ui/index.html)
